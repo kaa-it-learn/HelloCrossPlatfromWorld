@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/HelloCrossPlatformWorld/v15
+/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/bin/Debug
+/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Core/obj/Debug
+/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/bin/Debug
+/HelloCrossPlatformWorld/HelloCrossPlatformWorld.Droid/obj
+/HelloCrossPlatformWorld/HelloCrossPlatformWorld.iOS/obj/iPhone/Debug
